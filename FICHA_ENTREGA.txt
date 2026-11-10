@@ -1,0 +1,17 @@
+TRABAJO PRÁCTICO INTEGRADOR — DESARROLLO WEB
+MI PORTFOLIO WEB PROFESIONAL EN GITHUB PAGES
+
+1. NOMBRE Y APELLIDO DEL ALUMNO:
+Máximo Mayandes
+
+2. URL PÚBLICA DEL PORTFOLIO (GITHUB PAGES):
+[PENDIENTE: COMPLETAR AL PUBLICAR EN LA CUENTA DE MÁXIMO]
+
+3. URL DEL REPOSITORIO EN GITHUB:
+[PENDIENTE: COMPLETAR AL CREAR EL REPOSITORIO DE MÁXIMO]
+
+4. ESTÉTICA E INTERACTIVIDAD:
+Para mi portfolio elegí una estética editorial y llamativa, con letras grandes, bloques bien marcados, formas geométricas y una combinación de crema, naranja y amarillo. Busqué que sea diferente a una página común y que se adapte tanto a la computadora como al celular.
+Con JavaScript agregué un botón para cambiar la paleta de colores y otro para copiar el enlace de mi portfolio. También organicé un menú que permite navegar entre las distintas secciones. Mi proyecto destacado es ChangaYa, una aplicación grupal en desarrollo para conectar personas que necesitan ayuda con trabajadores que ofrecen servicios.
+
+ACLARACIÓN: ChangaYa es un proyecto grupal. La maqueta del teléfono del portfolio es una ilustración conceptual, no una captura de la aplicación funcionando.
